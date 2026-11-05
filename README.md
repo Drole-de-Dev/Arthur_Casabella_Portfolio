@@ -8,7 +8,7 @@ Ceci est une description
 - Arthur Casabella
 
 ### Technologie utilisée (language, algorithme...) :
-- Blazor, HTML,CSS
+- HTML,CSS
 
 ### Résultats :
 - 
